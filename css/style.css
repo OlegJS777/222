@@ -335,6 +335,10 @@ html {
   padding-right: 10px;
 }
 
+.foto-card {
+  margin: 0 auto;
+}
+
 .button-post {
   margin-top: 20px;
   margin-bottom: 10px;

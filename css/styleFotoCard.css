@@ -31,6 +31,7 @@ body {
     font-size: 30px;
     margin-top: 20px;
     margin: 20px 5px 5px 5px;
+    text-align: center;
   }
   
   .head-card::after {
@@ -53,7 +54,8 @@ body {
 
 
   .text-card {
-    margin-bottom: 300px;
+    margin-bottom: 250px;
+  
   }
   .slider {
     position: relative;
@@ -62,8 +64,8 @@ body {
     justify-content: center;
   }
   .slider__items {
-    /* margin-top: 300px; */
-    /* max-width: 750px; */
+    /* margin-top: 50px; */
+    max-width: 750px;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -87,9 +89,8 @@ body {
     object-fit: cover; */
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /* object-fit: cover; */
     object-fit: contain;
-  
   }
   
   .slider__item_active {
