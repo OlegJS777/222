@@ -22,15 +22,15 @@ body {
     display: flex;
     flex-direction: column;
     /* justify-content: center; */
-    margin: 10px 15px;
+    margin: 5px 15px;
    align-items: center;
   }
 
   .head-card {
     color: #333333;
     font-size: 30px;
-    margin-top: 20px;
-    margin: 20px 5px 5px 5px;
+    /* margin-top: 20px; */
+    margin: 10px 5px 5px 5px;
     text-align: center;
   }
   
@@ -40,7 +40,7 @@ body {
     height: 3px;
     display: block;
     width: 100%;
-    margin-top: 30px;
+    margin-top: 20px;
   }
   
   .text-card {
@@ -48,13 +48,12 @@ body {
     color: #868682;
     text-align: justify;
     line-height: 1.3;
-    margin-top: 30px;
+    margin-top: 5px;
     padding-right: 10px;
   }
 
-
   .text-card {
-    margin-bottom: 250px;
+    margin-bottom: 230px;
   
   }
   .slider {
