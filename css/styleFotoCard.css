@@ -17,6 +17,12 @@ body {
   font-style: bold;
 }
 
+.up-menu {
+  box-sizing: border-box;
+  align-items: center;
+  background-color: #f3eee7;
+  padding-left: 100px;
+}
 
 .foto-info {
   display: flex;
