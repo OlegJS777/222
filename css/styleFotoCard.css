@@ -33,7 +33,7 @@ body {
 
 .head-card {
   color: #000000;
-  font-size: 30px;
+  font-size: 24px;
   margin: 10px 5px 5px 5px;
   text-align: center;
 }
@@ -48,7 +48,7 @@ body {
 }
 
 .text-card {
-  font-size: 18px;
+  font-size: 14px;
   color: #000000;
   text-align: justify;
   line-height: 1.3;
