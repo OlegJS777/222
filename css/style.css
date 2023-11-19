@@ -207,6 +207,7 @@ html {
   margin: 100px auto;
   display: flex;
   justify-content: center;
+  
 }
 
 .about-foto {
@@ -227,6 +228,7 @@ html {
   text-align: center;
   padding-bottom: 50px;
   color: #000000;
+  font-size: 40px;
 }
 
 .about-text {
@@ -234,6 +236,7 @@ html {
   color: #000000;
   line-height: 1.3;
   text-align: justify;
+  text-indent: 45px;
 }
 
 .project {
@@ -345,7 +348,7 @@ html {
   line-height: 1.3;
   margin-top: 30px;
   padding-right: 10px;
-  text-indent: 30px;
+  text-indent: 45px;
 }
 
 .foto-card {
@@ -433,6 +436,7 @@ html {
   color: #000000;
   font-size: 38px;
   padding-bottom: 30px;
+  text-align: center;
 }
 
 .best-design-text {
@@ -485,6 +489,10 @@ html {
   color: #222216;
 }
 
+.list {
+  display: flex;
+}
+
 .list-foto {
   display: flex;
   box-sizing: border-box;
@@ -492,9 +500,6 @@ html {
   margin: 0 auto;
 }
 
-.list {
-  display: flex;
-}
 
 .block {
   display: flex;
@@ -536,22 +541,22 @@ html {
 
 a[href^="tel:"] {
 	color: #000;
-	font-size: 16px;
+	font-size: 25px;
 	font-weight: 900;
   text-decoration: none;
 }
 
 .head-list {
-  font-size: 30px;
+  font-size: 35px;
 }
 
 .text-list {
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .foto {
   padding-left: 70px;
-  max-width: 350px;
+  max-width: 450px;
 }
 
 .foto-link {
@@ -615,6 +620,10 @@ padding: 30px;
   padding: 30px;
   font-size: 50px;
   text-align: center;
+}
+
+.list-question {
+  padding-left: 20px;
 }
 
 .menu-question-item {
@@ -770,6 +779,7 @@ padding: 30px;
   }
 
   .about-head {
+    font-size: 2.3vw;
     padding-bottom: 25px;
   }
 
@@ -841,7 +851,6 @@ padding: 30px;
 
   .best-design-head {
     font-size: 32px;
-    text-align: center;
   }
 
   .wrapl {
@@ -881,6 +890,10 @@ padding: 30px;
   }
 
   .text-list {
+    font-size: 1.6vw;
+  }
+
+  a[href^="tel:"] {
     font-size: 1.6vw;
   }
 
@@ -1043,6 +1056,7 @@ padding: 30px;
   }
 
   .about-head {
+    font-size: 20px;
     padding-bottom: 20px;
   }
 
@@ -1148,7 +1162,6 @@ padding: 30px;
 
   .best-design-head {
     font-size: 20px;
-    text-align: center;
   }
 
   .best-design-text {
@@ -1200,6 +1213,10 @@ padding: 30px;
   }
 
   .text-list {
+    font-size: 12px;
+  }
+
+  a[href^="tel:"] {
     font-size: 12px;
   }
 
