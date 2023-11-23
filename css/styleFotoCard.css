@@ -23,6 +23,10 @@ body {
   padding-left: 30px;
 }
 
+.logo-header {
+  width: 200px;
+}
+
 .foto-info {
   display: flex;
   flex-direction: column;
