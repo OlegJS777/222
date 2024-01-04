@@ -68,13 +68,13 @@ body {
   height: 150px;
   display: flex;
   justify-content: center;
-  margin:0 auto;
+  margin: 0 auto;
 }
 
 .slider__items {
   display: flex;
   justify-content: center;
-  margin:0 auto;
+  margin: 0 auto;
 }
 
 .slider__item {
@@ -90,7 +90,7 @@ body {
 
 .slider__item_active {
   display: block;
-  margin:0 auto;
+  margin: 0 auto;
 }
 
 .slider__arrows {
