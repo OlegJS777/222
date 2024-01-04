@@ -90,6 +90,7 @@ body {
 
 .slider__item_active {
   display: block;
+  margin:0 auto;
 }
 
 .slider__arrows {
